@@ -1,0 +1,102 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    artifactId: "permission.RECORD_AUDIO"
+  }
+  digests {
+    sha256: "L\336\264\305\241\016\016\nj\000:(\235\237\302\327d\372\037\022,\333~\207\316;\315\027XX\370>"
+  }
+}
+library {
+  maven_library {
+    artifactId: "EasyAR"
+  }
+  digests {
+    sha256: "\363\020\204z\273\254\230\0369@\306\r.\335\036x\310\220\272\220=\f\001\236!\"\"\n77P="
+  }
+}
+library {
+  maven_library {
+    artifactId: "permission.CAMERA"
+  }
+  digests {
+    sha256: "Y\276\020\303\336\322\221\302\3656\264z\364\310\006\324~\f\312\363\343b\022\275O(tr\355\315 \374"
+  }
+}
+library {
+  maven_library {
+    artifactId: "arcore_client"
+  }
+  digests {
+    sha256: "\206.\326\330iF5]O$U\341KI\301Z\361[zT\276]W\215S\355\234\210\255d1\033"
+  }
+}
+library {
+  maven_library {
+    artifactId: "ARPresto"
+  }
+  digests {
+    sha256: "\231\310\0226\203j\002m\177\346\325\221\325\227[\316\020\217\333 \022\177\271pp\227\t\3609\200L\237"
+  }
+}
+library {
+  maven_library {
+    artifactId: "UnityARCore"
+  }
+  digests {
+    sha256: "=\"_C\212\351\213\037\214\245\371\316;\236>\362v*=\300\035\004\016\214n\215?\351\016\256W\025"
+  }
+}
+library {
+  maven_library {
+    artifactId: "unityandroidpermissions"
+  }
+  digests {
+    sha256: "\304\275\200/\267\017\253\2569\233,4\201\275\362\370\021i,\2045\246\3123t\313N\032\270\017h\272"
+  }
+}
+library {
+  maven_library {
+    artifactId: "permission.INTERNET"
+  }
+  digests {
+    sha256: "\031\341\237\301\025\320\335\025DM\2201\001\246,\ar3\377\rX\366\230M\331\341\315\363\250 %\277"
+  }
+}
+library {
+  digests {
+    sha256: "\234i\255\222E\254\001\005\277JL\323\337\275K3\213\253>\235t\n\260\"d5\031Tf\354\362U"
+  }
+}
+library_dependencies {
+}
+library_dependencies {
+  library_index: 1
+}
+library_dependencies {
+  library_index: 2
+}
+library_dependencies {
+  library_index: 3
+}
+library_dependencies {
+  library_index: 4
+}
+library_dependencies {
+  library_index: 5
+}
+library_dependencies {
+  library_index: 6
+}
+library_dependencies {
+  library_index: 7
+}
+library_dependencies {
+  library_index: 8
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 8
+}
